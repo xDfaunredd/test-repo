@@ -1,0 +1,17 @@
+.feedback-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  width: 360px;
+}
+
+.form-text-input {
+  width: 360px;
+  height: 20px;
+}
+
+textarea.form-text-input {
+  resize: none;
+}
